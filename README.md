@@ -1,7 +1,7 @@
-## 🏢 Founder of ANI (Artur Niemeic Industries)
-## 📺 YouTube Creator at CodeForge
-## 🔭 I’m currently working on ANI ENGINE
-## 🌐 Let's Connect!
+# 🏢 Founder of ANI (Artur Niemeic Industries)
+# 📺 YouTube Creator at CodeForge
+# 🔭 I’m currently working on ANI ENGINE
+# 🌐 Let's Connect!
 - 📫 How to reach me: rtrniemiec@gmail.com
 - 🐦 Twitter: ANIndustries
 - 👔 More info here => [[ANIndustries]](https://anindustries.tech/)
