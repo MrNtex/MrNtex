@@ -1,8 +1,14 @@
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrNtex&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**MrNtex/MrNtex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, I'm MrNtex!
+🏢 Founder of ANI (Artur Niemeic Industries)
+📺 YouTube Creator at CodeForge
+🔭 I’m currently working on ANI ENGINE
+🌐 Let's Connect!
+    📫 How to reach me: rtrniemiec@gmail.com
+    🐦 Twitter: ANIndustries
+    👔 More info here => [[ANIndustries]](https://anindustries.tech/)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrNtex&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
