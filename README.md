@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrNtex)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrNtex&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **MrNtex/MrNtex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
