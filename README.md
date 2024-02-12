@@ -1,6 +1,8 @@
-- 🔭 Everything else is on my website! - [[ANIndustries]](https://anindustries.tech/)
+<p align="center">
+ 🔭 Everything else is on my website! - [[ANIndustries]](https://anindustries.tech/)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrNtex&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
