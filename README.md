@@ -1,8 +1,16 @@
 <p align="center">
- 🔭 Everything else is on my website! - https://anindustries.tech/
-
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrNtex&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  🔭 Everything else is on my website! - https://anindustries.tech/
 </p>
+
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrNtex&theme=tokyonight" />
+  </a>
+  <a href="https://leetcode.com/ArturNiemiec/">
+    <img align="center" src="https://leetcard.jacoblin.cool/ArturNiemiec" />
+  </a>
+</div>
+
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
