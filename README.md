@@ -19,7 +19,7 @@
   <summary>⚙️ Technologies I use</summary>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,c,cmake,rust,js,react,html,css,threejs,bash,perl&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,c,cmake,rust,js,react,elixir,html,css,threejs,bash,perl&theme=dark" />
     </a>
   </p>
   
