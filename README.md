@@ -19,11 +19,19 @@
   <summary>⚙️ Technologies I use</summary>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,c,cmake,rust,js,react,elixir,html,css,threejs,bash,perl&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,c,cmake,rust&theme=dark" />
     </a>
   </p>
-  
-</details>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,react,elixir,html,css,threejs&theme=dark" />
+    </a>
+  </p>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bash,perl&theme=dark" />
+    </a>
+  </p>
 </details>
 <p align="center">
   🔭 Everything else is on my website! - https://anindustries.tech/
