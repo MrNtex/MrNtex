@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrNtex&theme=tokyonight" />
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrNtex&theme=tokyonight&layout=compact&langs_count=8" />
   </a>
   
 </div>
