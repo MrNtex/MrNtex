@@ -4,7 +4,7 @@
 
 <div class="github-introduction">
 
-I&apos;m a **backend developer** and **game developer** with a passion for creating new things. I specialize in creating **dynamic** and **interactive** applications.
+I&apos;m a **fullstack developer** and **game developer** with a passion for creating new things. I specialize in creating **dynamic** and **interactive** applications.
 
 </div>
 
