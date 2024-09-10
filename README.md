@@ -34,7 +34,7 @@ I&apos;m a **backend developer** and **game developer** with a passion for creat
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,react,elixir,html,css,threejs&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
     </a>
   </p>
   <p align="center">
