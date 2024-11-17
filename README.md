@@ -4,8 +4,11 @@
 
 <div class="github-introduction">
 
-I&apos;m a **fullstack developer** and **game developer** with a passion for creating new things. I specialize in creating **dynamic** and **interactive** applications.
 
+<div align="center">
+  <p>I&apos;m a <b>fullstack developer</b> with ambitions to specialize in AI and DevOps.</p>
+  <p>🔭 Visit my website! - https://anindustries.tech/</p>
+</div>
 </div>
 
 <br>
@@ -43,9 +46,11 @@ I&apos;m a **fullstack developer** and **game developer** with a passion for cre
     </a>
   </p>
 </details>
-<p align="center">
-  🔭 Everything else is on my website! - https://anindustries.tech/
-</p>
+<br/>
+<i>
+  outwork them all.
+</i>
+
 <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
