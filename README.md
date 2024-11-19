@@ -7,7 +7,7 @@
 
 <div align="center">
   <p>I&apos;m a <b>fullstack developer</b> with ambitions to specialize in AI and DevOps.</p>
-  <p>🔭 Visit my website! - https://anindustries.tech/</p>
+  <p>🔭 Visit my website! - https://anindustries.pl/</p>
 </div>
 </div>
 
