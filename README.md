@@ -28,11 +28,10 @@
   </div>
   
 </details>
-<details>
-  <summary>⚙️ Technologies I use</summary>
+<h4>⚙️ Technologies I use</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,c,cmake,rust&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,gcp,python&theme=dark" />
     </a>
   </p>
   <p align="center">
@@ -42,10 +41,9 @@
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bash,perl&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,bash,vercel&theme=dark" />
     </a>
   </p>
-</details>
 <br/>
 <i>
   outwork them all.
