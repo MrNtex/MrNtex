@@ -31,17 +31,17 @@
 <h4>⚙️ Technologies I use</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,gcp,python&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,python&theme=dark" />
     </a>
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,html,css&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=ts,angular,react,html,css&theme=dark" />
     </a>
   </p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,bash,vercel&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,bash,gcp&theme=dark" />
     </a>
   </p>
 <br/>
