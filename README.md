@@ -23,7 +23,7 @@
   <summary>✅ Leetcode</summary>
   <div dir="auto" align="center">
     <a href="https://leetcode.com/ArturNiemiec/">
-    <img align="center" src="https://leetcard.jacoblin.cool/ArturNiemiec" />
+    <img align="center" src="https://leetcard.jacoblin.cool/NotMrNtex" />
   </a>
   </div>
   
