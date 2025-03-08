@@ -6,7 +6,7 @@
 
 
 <div align="center">
-  <p>I&apos;m a <b>fullstack developer</b> with ambitions to specialize in <b>AI</b> and <b>Data Science</b>.</p>
+  <p>I&apos;m a <b>fullstack developer</b> with ambitions to specialize in <b>Data Science</b> and <b>Quantitative Finance</b>.</p>
   <p>🔭 Visit my website! - https://anindustries.pl/</p>
 </div>
 </div>
