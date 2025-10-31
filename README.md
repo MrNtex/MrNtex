@@ -31,7 +31,7 @@
 <h4>⚙️ Technologies I use</h4>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,cpp,java,python&theme=dark" />
+      <img src="https://skillicons.dev/icons?i=java,python,cs,cpp&theme=dark" />
     </a>
   </p>
   <p align="center">
